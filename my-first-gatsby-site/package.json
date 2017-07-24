@@ -1,0 +1,15 @@
+{
+  "name": "my-first-gatsby-site",
+  "version": "1.0.0",
+  "description": "My first gatsby site",
+  "main": ".gatsby-context.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syn-Ee",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^1.3.2",
+    "gatsby-link": "^1.3.2"
+  }
+}
