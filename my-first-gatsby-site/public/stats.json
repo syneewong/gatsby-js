@@ -1,0 +1,28 @@
+{
+  "assetsByChunkName": {
+    "page-component---src-pages-index-js": [
+      "page-component---src-pages-index-js-841965880f01cb221063.js",
+      "page-component---src-pages-index-js-841965880f01cb221063.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---my-second-gatsby-page": [
+      "path---my-second-gatsby-page-a0e39f21c11f6a62c5ab.js",
+      "path---my-second-gatsby-page-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "page-component---src-pages-my-second-gatsby-page-js": [
+      "page-component---src-pages-my-second-gatsby-page-js-4e45fcf8b5586a14968b.js",
+      "page-component---src-pages-my-second-gatsby-page-js-4e45fcf8b5586a14968b.js.map"
+    ],
+    "commons": [
+      "commons-fa7a9b600c12c5826c77.js",
+      "commons-fa7a9b600c12c5826c77.js.map"
+    ],
+    "app": [
+      "app-e8a457966cbc35c2043f.js",
+      "app-e8a457966cbc35c2043f.js.map"
+    ]
+  }
+}
